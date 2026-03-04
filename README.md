@@ -8,27 +8,21 @@ Focused on becoming a backend specialist using Node.js and modern backend techno
 
 ## 🧠 About Me
 
-I'm a high school student building strong foundations in programming and backend development.
+I'm a high school student focused on becoming a backend developer.
 
-I have experience with:
-- JavaScript
-- Python (including OOP and JSON data handling)
-- Node.js
-- Git & GitHub
-
-Currently learning MySQL and preparing to build REST APIs.
+I build projects to strengthen backend fundamentals using JavaScript, Node.js and Python, and I'm currently studying MySQL and REST API development.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Basic-green)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
 ![Python](https://img.shields.io/badge/Python-OOP-blue)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
-
 ---
 
 ## 📌 Featured Projects
