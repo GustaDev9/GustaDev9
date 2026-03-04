@@ -8,7 +8,7 @@ Backend Developer in training
 
 I'm a high school student focused on becoming a backend developer.
 
-I have experience with JavaScript fundamentals, Python (including OOP), and basic Node.js.  
+I have experience with JavaScript fundamentals, Python (including OOP), and Node.js.  
 Currently learning MySQL and preparing to build REST APIs to strengthen my backend skills.
 
 ---
