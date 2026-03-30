@@ -39,10 +39,8 @@ Portfolio website built with HTML, CSS and JavaScript to showcase projects and g
 
 ## 🎯 Current Focus
 
-- Learning MySQL
 - Building REST APIs with Node.js
 - Improving backend architecture skills
-- Preparing for real backend projects
 
 ---
 
