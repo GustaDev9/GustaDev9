@@ -18,7 +18,7 @@ I build projects to strengthen backend fundamentals using JavaScript, Node.js an
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Python](https://img.shields.io/badge/Python-OOP-blue)
+![Python](https://img.shields.io/badge/Python-Backend-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
