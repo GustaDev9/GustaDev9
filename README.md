@@ -23,6 +23,8 @@ I build projects to strengthen backend fundamentals using JavaScript, Node.js an
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)
 ![Git](https://img.shields.io/badge/Git-VersionControl-red)
+![TypeScript](https://img.shields.io/badge/TypeScript-TS-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-blue)
 ---
 
 ## 📌 Featured Projects
