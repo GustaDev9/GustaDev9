@@ -1,6 +1,6 @@
 # Gustavo Samuel
 
-🚀 Backend Developer in training  
+🚀 Backend Developer 
 
 Focused on becoming a backend specialist using Node.js and modern backend technologies.
 
@@ -10,7 +10,7 @@ Focused on becoming a backend specialist using Node.js and modern backend techno
 
 I'm a high school student focused on becoming a backend developer.
 
-I build projects to strengthen backend fundamentals using JavaScript, Node.js and Python, and I'm currently studying MySQL and REST API development.
+I build projects to strengthen backend fundamentals using JavaScript, Node.js and Python, and I'm currently studying databases and REST API development.
 
 ---
 
