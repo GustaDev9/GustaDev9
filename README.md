@@ -6,6 +6,8 @@ Focused on becoming a backend specialist using Node.js and modern backend techno
 
 ---
 
+📸 Instagram: https://instagram.com/gustadev.backend
+
 ## 🧠 About Me
 
 I'm a high school student focused on becoming a backend developer.
