@@ -4,9 +4,7 @@
 
 Focused on becoming a backend specialist using Node.js and modern backend technologies.
 
----
-
-📸 Instagram: https://instagram.com/gustadev.backend
+--
 
 ## 🧠 About Me
 
